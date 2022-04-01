@@ -1,0 +1,1 @@
+This project is mainly focused on learning/reviewing props in react.
